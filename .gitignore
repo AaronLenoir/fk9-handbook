@@ -5,6 +5,7 @@
 !.gitignore
 !cockpit.cfg
 !engines.cfg
+!flight_model.cfg
 !ASI.PNG.DDS
 
 # ...even if they are in subdirectories
